@@ -1,0 +1,16 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+.heading{
+    background-color: rgba(245, 216, 216, 0.814);
+}
+.paragraph{
+    background-color:rgba(245, 216, 216, 0.814) ;
+}
+.h1{
+    color:rgb(170, 44, 44) ;
+}
+
+span{
+    background-color: rgb(170, 44, 44);
+}
